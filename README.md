@@ -15,4 +15,4 @@ $ npm start
 ```
 
 ## Note
-mongoDB connection string located in `config.js`
+mongoDB connection string is located in `config.js`
